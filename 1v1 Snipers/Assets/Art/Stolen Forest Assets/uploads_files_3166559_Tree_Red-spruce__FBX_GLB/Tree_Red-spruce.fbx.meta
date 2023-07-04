@@ -3,7 +3,17 @@ guid: aa2e0e84b78b96f4291aba2d089306e8
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bark_Red-spruce
+    second: {fileID: 2100000, guid: 6572100e1e83c5d4cae4d52ce924b3c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leaf_Red-spruce
+    second: {fileID: 2100000, guid: f1641bdfa15702e42a20d93b43a41962, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
